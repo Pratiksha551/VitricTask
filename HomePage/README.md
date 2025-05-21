@@ -30,10 +30,6 @@ This project is a fully responsive Digital Marketing Home Page UI built using Re
 
 ---
 
-## 🛠️ Getting Started
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/react-homepage-ui.git
-cd react-homepage-ui
+
