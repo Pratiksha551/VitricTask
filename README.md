@@ -1,6 +1,6 @@
 # 🌐 React Digital Marketing Homepage UI
 
-This project is a fully responsive Digital Marketing Home Page UI built using React.js and Tailwind CSS. It includes multiple reusable components—like Hero, Services, Testimonials, Team, Contact Form, and more—structured to deliver a modern and professional front end.
+This project is a fully responsive **Digital Marketing Home Page UI** built using **React.js** and **Tailwind CSS**. It includes multiple reusable components like Hero, Services, Testimonials, Team, Contact Form, and more – structured to deliver a modern and professional frontend.
 
 ## 📸 Preview
 
@@ -13,7 +13,7 @@ This project is a fully responsive Digital Marketing Home Page UI built using Re
 - `Hero` – Engaging hero banner with a call-to-action.
 - `Services` – Showcase of services offered with responsive design.
 - `CallToAction (Cta)` – A section to prompt users to take action.
-- `Case Studies` – Highlights of past successful projects.
+- `CaseStudies` – Highlights of past successful projects.
 - `WorkingProcess` – Visual explanation of the work process.
 - `Team` – Meet the team section.
 - `Testimonials` – Real feedback from clients.
@@ -30,6 +30,6 @@ This project is a fully responsive Digital Marketing Home Page UI built using Re
 
 ---
 
-
+## 🛠️ Getting Started
 
 
