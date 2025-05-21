@@ -2,9 +2,9 @@
 
 This project is a fully responsive **Digital Marketing Home Page UI** built using **React.js** and **Tailwind CSS**. It includes multiple reusable components like Hero, Services, Testimonials, Team, Contact Form, and more – structured to deliver a modern and professional frontend.
 
-## 📸 Preview
+## 📸 Live Demo:
 
-![Screenshot](./preview.png) <!-- Add an actual image or remove this line -->
+Link : https://vitric-task-jgnk.vercel.app/
 
 ---
 
