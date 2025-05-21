@@ -6,7 +6,7 @@ import WorkingProcess from '../component/WorkingProcess'
 import Team from '../component/Team'
 import Testimonials from '../component/Testimonials'
 import ContactForm from '../component/ContactForm'
-import Footer from '../component/footer'
+import Footer from '../component/Footer'
 import CallToAction from '../component/Cta'
 
 const Home = () => {
